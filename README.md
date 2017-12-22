@@ -1,2 +1,2 @@
-# cnode-vue
-技术栈：vue、vuex、axios
+# vue-segmentfault
+技术栈：vue、vue-router、vuex、axios
